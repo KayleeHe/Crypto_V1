@@ -1,0 +1,29 @@
+{
+    "精研科技": {
+        "code": "300709.SZ",
+        "direct": "买",
+        "close": 24.56,
+        "price": 25.05,
+        "amount": 100,
+        "trace_strategy": "自定义策略1",
+        "auto_trade": "否"
+    },
+    "杭齿前进": {
+        "code": "601177.SH",
+        "direct": "买",
+        "close": 11.98,
+        "price": 11.98,
+        "amount": 1000,
+        "trace_strategy": "自定义策略1",
+        "auto_trade": false
+    },
+    "金科股份": {
+        "code": "000656.SZ",
+        "direct": "买",
+        "close": 2.54,
+        "price": 2.54,
+        "amount": 1000,
+        "trace_strategy": "自定义策略1",
+        "auto_trade": false
+    }
+}

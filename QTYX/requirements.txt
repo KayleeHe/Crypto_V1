@@ -1,0 +1,14 @@
+wxpython
+mplfinance
+mpl_finance
+TA-Lib
+numpy
+pandas==1.3.5
+pandas-datareader
+pyecharts==1.7.0
+matplotlib
+tushare
+baostock
+statsmodels
+tabulate
+pywencai

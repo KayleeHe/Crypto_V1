@@ -1,0 +1,47 @@
+{
+    "御银股份": {
+        "code": "002177.SZ",
+        "exceed": 8,
+        "retreat": 5,
+        "price": 5.6,
+        "highest": 5.6,
+        "trace_strategy": "自定义策略1",
+        "auto_trade": false
+    },
+    "恒银科技": {
+        "code": "603106.SH",
+        "exceed": 8,
+        "retreat": 5,
+        "price": 9.45,
+        "highest": 9.45,
+        "trace_strategy": "自定义策略1",
+        "auto_trade": false
+    },
+    "红塔证券": {
+        "code": "601236.SH",
+        "exceed": 8,
+        "retreat": 5,
+        "price": 9.97,
+        "highest": 9.97,
+        "trace_strategy": "自定义策略1",
+        "auto_trade": false
+    },
+    "太平洋": {
+        "code": "601099.SH",
+        "exceed": 8,
+        "retreat": 5,
+        "price": 4.93,
+        "highest": 4.93,
+        "trace_strategy": "自定义策略1",
+        "auto_trade": false
+    },
+    "首创证券": {
+        "code": "601136.SH",
+        "exceed": 8,
+        "retreat": 5,
+        "price": 24.97,
+        "highest": 24.97,
+        "trace_strategy": "自定义策略1",
+        "auto_trade": false
+    }
+}
